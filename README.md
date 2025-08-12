@@ -1,2 +1,0 @@
-link for hr analytics Web view
-https://app.powerbi.com/view?r=eyJrIjoiZTZjMjVjZWEtMDI3NS00Y2MxLTlmY2YtMzk0ZDE2OTU2MjkzIiwidCI6IjIxODRmYjUxLTk0MTktNGE2OS1hYjY1LTg4ZDU4ZWIxNjBhNiJ9
